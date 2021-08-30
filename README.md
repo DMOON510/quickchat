@@ -1,4 +1,5 @@
 # QuickChat App
+- chat application where you can create new conversations, add users to chats, send images and messages, etc
 - made using React JS and ChatEngine (APIs, UIKit)
 - languages used: Javascript, HTML, CSS
 
